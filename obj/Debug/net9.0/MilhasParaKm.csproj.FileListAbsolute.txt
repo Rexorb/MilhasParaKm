@@ -1,0 +1,15 @@
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\MilhasParaKm\bin\Debug\net9.0\MilhasParaKm.exe
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\MilhasParaKm\bin\Debug\net9.0\MilhasParaKm.deps.json
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\MilhasParaKm\bin\Debug\net9.0\MilhasParaKm.runtimeconfig.json
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\MilhasParaKm\bin\Debug\net9.0\MilhasParaKm.dll
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\MilhasParaKm\bin\Debug\net9.0\MilhasParaKm.pdb
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\MilhasParaKm\obj\Debug\net9.0\MilhasParaKm.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\MilhasParaKm\obj\Debug\net9.0\MilhasParaKm.AssemblyInfoInputs.cache
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\MilhasParaKm\obj\Debug\net9.0\MilhasParaKm.AssemblyInfo.cs
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\MilhasParaKm\obj\Debug\net9.0\MilhasParaKm.csproj.CoreCompileInputs.cache
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\MilhasParaKm\obj\Debug\net9.0\MilhasParaKm.sourcelink.json
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\MilhasParaKm\obj\Debug\net9.0\MilhasParaKm.dll
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\MilhasParaKm\obj\Debug\net9.0\refint\MilhasParaKm.dll
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\MilhasParaKm\obj\Debug\net9.0\MilhasParaKm.pdb
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\MilhasParaKm\obj\Debug\net9.0\MilhasParaKm.genruntimeconfig.cache
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\MilhasParaKm\obj\Debug\net9.0\ref\MilhasParaKm.dll
